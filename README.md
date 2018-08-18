@@ -21,3 +21,6 @@ And assuming they have grown at the same pace, then I would sell a part of Fund2
 
 As already mentioned, I'll calculate performance for both a scenario where I buy and hold (apart from changes to match my target position) and for a scenario where I buy each month around the 10th.
 
+Further note: both the benchmark and my portfolio are selected from Fidelity UK. The whole set of available funds can be see here https://www.fidelity.co.uk/investing/investment-finder. I have no relationship with Fidelity other than being a customer and I am in no way endorsing Fidelity.
+
+The benchmark I'm using is the GBP world equity fund from Fidelity, since it uses the same asset type and currency that I do and is well diverified across geographies, sectors etc, which is also the kind of strategy I'm adopting. In particular, I've chosen GB00BJS8SJ34 - Fidelity Index World P Acc, which at the time of writing has 4 stars on Morningstar.
